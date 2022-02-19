@@ -10,7 +10,7 @@
 
  - 🔭 I’m currently working on **improving my skills and knowledge**
 
-- 🌱 I’m currently learning **HTML&CSS and C++**
+- 🌱 I’m currently learning **HTML&CSS, C++ and JavaScript**
 
 - 📫 How to reach me **PTYordanov20@codingburgas.bg**
 
