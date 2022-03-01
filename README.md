@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **PTYordanov20@codingburgas.bg**
 
-- ⚡ Fun fact: **I think I'm good at communicating with other peoples**
+- ⚡ Fun fact: **I think I'm good at communicating with other people**
 
 <hr>
 
