@@ -30,4 +30,5 @@
  <a href ="https://www.credly.com/earner/earned/badge/88a74a3a-6bcc-4c24-aef9-b5d067021fbb"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
  <a href ="https://www.credly.com/earner/earned/badge/9dd587f4-734c-4bad-baa0-2d7e0ee432b3"><img align="left" alt="JavaScript" width="200px" src="https://images.credly.com/size/340x340/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" ></a>
  <a href ="https://www.credly.com/earner/earned/badge/b61bee94-ceb8-436d-b039-4a198632870d"><img align="left" alt="Excel Office 2016" width="200px" src="https://images.credly.com/size/340x340/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" ></a>
+<a href ="https://www.credly.com/earner/earned/badge/1b761db3-2633-41e3-8354-796e4464d31c"><img align="left" alt="IT Essentials" width="200px" src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" ></a>
 </details>  
